@@ -1,0 +1,12 @@
+﻿  sportscar.cpp
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(28,10): warning C4566: 유니버설 문자 이름 '\uAE30'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(28,10): warning C4566: 유니버설 문자 이름 '\uC5B4'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(28,10): warning C4566: 유니버설 문자 이름 '\uB2E8'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(28,10): warning C4566: 유니버설 문자 이름 '\uC18D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(28,10): warning C4566: 유니버설 문자 이름 '\uB3C4'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(31,10): warning C4566: 유니버설 문자 이름 '\uAC1D'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(31,10): warning C4566: 유니버설 문자 이름 '\uCCB4'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(31,10): warning C4566: 유니버설 문자 이름 '\uC8FC'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\car.h(31,10): warning C4566: 유니버설 문자 이름 '\uC18C'(으)로 표현되는 문자는 현재 코드 페이지(1252)에서 표현할 수 없습니다.
+C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\SportsCar\Sports_Car.h(18,1): warning C4102: 'Car': 참조되지 않은 레이블입니다.
+  SportsCar.vcxproj -> C:\Users\전자공학부\Desktop\Git\SportsCar\SportsCar\x64\Debug\SportsCar.exe
